@@ -1,7 +1,10 @@
 # Digital Library
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
-## Koleksi
+## Pemilik
+Nama: Nadiyatul Fauziyyah
+NIM: 13040124120030
+### Koleksi
 1. [Membuat Form Upload Image](ebook/Membuat Form Upload Image.pdf) – Athanasia (2026) 
 2. [little hans](ebook/little hans.pdf) – Johan Norman (1998)
 3. [bipolardisorder](ebook/bipolardisorder.pdf) – National Institute of Mental Health (2015)
